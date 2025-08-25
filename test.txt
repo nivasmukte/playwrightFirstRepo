@@ -2,3 +2,4 @@
 
 // new lines are added to text file
 //this is new file
+//updated file for new feature typescript
