@@ -1,6 +1,5 @@
 //this is text file
 
 // new lines are added to text file
-//this is new file
-//updated file for new feature typescript
+//new lines are added to check merge conflict
 //check wether getting merge conflict or not
