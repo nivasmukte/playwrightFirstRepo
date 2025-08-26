@@ -3,3 +3,4 @@
 // new lines are added to text file
 //this is new file
 //updated file for new feature typescript
+//check wether getting merge conflict or not
